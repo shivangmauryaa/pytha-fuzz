@@ -20,7 +20,7 @@ FUZZER is a simple pytha-fuzz tool developed by Shivang-Maurya It helps you disc
 1. Clone the repository:
 
    ```shell
-   git clone 
+   git clone https://github.com/shivangmauryaa/pytha-fuzz.git
    cd Dir-Miner
    ```
 2. Install the required packages:
