@@ -21,7 +21,7 @@ FUZZER is a simple pytha-fuzz tool developed by Shivang-Maurya It helps you disc
 
    ```shell
    git clone https://github.com/shivangmauryaa/pytha-fuzz.git
-   cd Dir-Miner
+   cd pytha-fuzz
    ```
 2. Install the required packages:
    ```shell
@@ -30,7 +30,7 @@ FUZZER is a simple pytha-fuzz tool developed by Shivang-Maurya It helps you disc
 
 ## Usage
 
-Use the following command-line arguments to run Dir-Miner:
+Use the following command-line arguments to run pytha-fuzz:
 ```shell
 -u or --url: The target URL to search (required).
 -w or --wordlist: Wordlist file containing directories to check.
@@ -43,8 +43,8 @@ Use the following command-line arguments to run Dir-Miner:
 
 Example usage:
 ```shell
-python3 dirminer.py -u http://example.com -w wordlist.txt -o output.txt    // Custom
-python3 dirminer.py -u http://example.com // Auto
+python3 pytha.py -u http://example.com -w wordlist.txt -o output.txt    // Custom
+python3 pytha.py -u http://example.com // Auto
 ```
 
 
