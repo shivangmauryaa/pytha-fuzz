@@ -2281,6 +2281,7 @@ admin/admin-login.%EXT%
 admin/admin.%EXT%
 admin/admin/login
 admin/admin_login
+admin/login
 admin/admin_login.%EXT%
 admin/adminer.php
 admin/adminLogin
